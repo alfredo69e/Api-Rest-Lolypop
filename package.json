@@ -10,8 +10,11 @@
   "author": "Alfredo Echeverria",
   "license": "MIT",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
     "express": "^4.16.4",
+    "jwt-simple": "^0.5.6",
     "mongoose": "^5.5.2"
   },
   "devDependencies": {
